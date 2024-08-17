@@ -9,3 +9,6 @@ Contains methods to:\
 
 ## Main.java
 Examples to showcase the methods   
+
+## IEEE754.xlsx
+Contains the plotting chart on loss of the presicion and comparison of different programing languages
